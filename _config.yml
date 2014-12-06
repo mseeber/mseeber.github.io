@@ -1,0 +1,12 @@
+# Site settings
+title: mseeber
+email: markus.seeber@spactralbird.de
+description: "Some description"
+baseurl: ""
+url: "http://yourdomain.com"
+twitter_username: amsel
+github_username:  mseeber
+
+# Build settings
+markdown: kramdown
+permalink: pretty
