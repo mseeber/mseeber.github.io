@@ -1,8 +1,6 @@
 body {
   padding:50px;
-  font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#839496;
-  font-weight:300;
   background-color:#002b36;
 }
 
@@ -13,7 +11,6 @@ h1, h2, h3, h4, h5, h6 {
 
 a {
   color:#859900;
-  font-weight:400;
   text-decoration:none;
 }
 
@@ -32,7 +29,7 @@ hr {
 }
 
 code, pre {
-  font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal;
+  font-family:Monaco, Inconsolata, Bitstream Vera Sans Mono, Lucida Console, Terminal;
   color:#333;
   background:#073642;
   font-size:12px;
