@@ -12,8 +12,7 @@ url: testpage
 
 Horizontal line
 <hr>
-
-{% highlight python3 %}
+```python
 def main():
     print("Hello World!")
-{% endhighlight %}
+```

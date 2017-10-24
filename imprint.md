@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Contact"
-url: contact
+title: "Imprint"
+url: imprint
 ---
 
 ## Legal Information

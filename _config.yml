@@ -1,12 +1,14 @@
 # Site settings
 title: mseeber
-email: markus.seeber@spactralbird.de
-description: "Markus Seeber"
+description: "random blog"
+
+email: markus.seeber@spectralbird.de
 baseurl: ""
 url: "http://www.sectralbird.de"
-twitter_username: amsel
 github_username:  mseeber
 
 # Build settings
 markdown: kramdown
-permalink: pretty
+highlighter: rouge
+
+permalink: /article/:year/:month/:day/
