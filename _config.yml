@@ -4,7 +4,7 @@ description: "random blog"
 
 email: markus.seeber@spectralbird.de
 baseurl: ""
-url: "http://www.sectralbird.de"
+url: "http://www.spectralbird.de"
 github_username:  mseeber
 
 # Build settings
