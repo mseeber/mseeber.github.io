@@ -12,7 +12,7 @@ working on but especially a place to practice writing down and
 communicating ideas.
 
 ![Gwendolyn the Owl]({{ "/assets/gwendolyn.jpg" | absolute_url
-}}){:style="float: right;margin-left: 1em;margin-top: 7px;"}
+}}){:style="float: right;margin-left: 1em;margin-top: 7px;max-width:50%"}
 The name of this site is inspired by my glowing friend Gwendolyn the
 owl, watching over my workplace at home and radiating that spectral
 mystical glow all over the place and totally not by the fact that I
